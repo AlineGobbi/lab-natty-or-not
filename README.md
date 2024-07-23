@@ -17,32 +17,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
+### PROJETO
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# E-BOOK Pilates em Casa: Exercícios Básicos para Fortalecimento e Flexibilidade
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto de criação de um e-book com exercícios de pilates para praticar em casa
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT 
+Gamma app 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Coloquei o seguinte texto no prompt do chat-gpt "Monte um Ebook com no máximo 10 paginas com exercícios de pilates e imagens demonstrando como realizar os exercícios. O foco seria para pessoas praticarem exercícios básicos em casa, utilizando somente um colchonete", depois utilizei o texto entregue para criação do e-book no gamma app
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Visualização do e-book no link
+https://gamma.app/docs/Pilates-em-Casa-Exercicios-Basicos-para-Fortalecimento-e-Flexibil-xqcfikvfnlt4w7q
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
